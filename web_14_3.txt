@@ -1,0 +1,11 @@
+https://www.uneweb.edu.ve/wp-content/uploads/2016/06/Guia-teorica-jQuery-nivel-1-Online.pdf
+https://www.desarrolloweb.com/manuales/manual-jquery.html#capitulos113
+http://librosweb.es/libro/fundamentos_jquery/capitulo_2/la_palabra_clave_this.html
+http://api.jquery.com/category/traversing/
+http://learn.jquery.com/using-jquery-core/document-ready/
+http://librosweb.es/libro/javascript/capitulo_3/funciones_y_propiedades_basicas_de_javascript.html
+
+https://www.adictosaltrabajo.com/tutoriales/jquery-intro/
+https://www.adictosaltrabajo.com/tutoriales/angularjs/
+
+
