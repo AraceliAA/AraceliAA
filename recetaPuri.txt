@@ -1,0 +1,20 @@
+Receta de judías con jamón y chorizo
+
+Emezeta Card PHP Cheat Sheet
+----------------------------
+
+Esta chuleta (o cheat sheet) de referencia para programadores PHP está
+creada por José Román Hernández (@Manz) de Emezeta.com.
+
+Puedes encontrar más información en:
+http://www.emezeta.com/articulos/emezeta-card-php-cheat-sheet
+
+*****
+Recuerda que si te ha resultado útil, puedes hacer una donación 
+al email de Paypal: JoseRomanHernandez@gmail.com
+*****
+
+http://twitter.com/Manz
+http://www.emezeta.com/
+
+Happy coding!
